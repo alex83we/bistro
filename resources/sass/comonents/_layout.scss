@@ -1,0 +1,19 @@
+:root {
+  --greenyellow: greenyellow;
+}
+
+a {
+  color: var(--bs-white);
+  text-decoration: none;
+  padding: 0 5px;
+
+  &:hover {
+    color: rgba(255, 255, 255, 0.75);
+    text-decoration: underline;
+  }
+}
+
+i {
+  font-size: 14px;
+  color: var(--greenyellow);
+}
