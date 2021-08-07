@@ -43,7 +43,7 @@
 
     <title>@yield('title') | Buttstädter Bistro</title>
 </head>
-<body class="bg-dark">
+<body class="bg-dark text-light">
 
 
 <main class="main d-block">

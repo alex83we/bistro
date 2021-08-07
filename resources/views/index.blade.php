@@ -9,7 +9,7 @@
                 <div class="col-lg-6 col-md-12 col-12 my-lg-4 my-3">
                     <div class="card shadow-lg h-100">
                         <div class="card-body">
-                            <h4>Öffnungszeiten</h4>
+                            <h4 class="text-dark">Öffnungszeiten</h4>
                             <div class="table-responsive-xxl">
                                 <table class="table table-sm table-borderless lh-1">
                                     <thead>
@@ -60,7 +60,7 @@
                     <div class="card shadow-lg h-100">
                         <div class="card-body">
                             <div class="d-flex flex-wrap align-items-center justify-content-between">
-                                <h4>Lieferzeiten</h4>
+                                <h4 class="text-dark">Lieferzeiten</h4>
                                 <strong class="text-danger">Bestellannahme bis 20:00 Uhr</strong>
                             </div>
                             <div class="table-responsive-xxl">
@@ -103,7 +103,7 @@
                                     <tbody>
                                 </table>
                             </div>
-                            <div class="d-flex flex-wrap align-items-center justify-content-sm-between justify-content-start">
+                            <div class="d-flex text-dark flex-wrap align-items-center justify-content-sm-between justify-content-start">
                                 <p class="m-0"><strong>Lieferung:&nbsp; </strong></p>
                                 <p class="m-0"> innerorts ab 10,00 €&nbsp; </p>
                                 <p class="m-0"> außerorts ab 15,00 € </p>

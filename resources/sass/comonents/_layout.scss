@@ -2,6 +2,10 @@
   --greenyellow: greenyellow;
 }
 
+body {
+  color: var(--bs-white);
+}
+
 a {
   color: var(--bs-white);
   text-decoration: none;

@@ -17748,6 +17748,10 @@ readers do not read off random characters that represent icons */
   --greenyellow: greenyellow;
 }
 
+body {
+  color: var(--bs-white);
+}
+
 a {
   color: var(--bs-white);
   text-decoration: none;
@@ -17784,6 +17788,10 @@ i {
 .categorie p {
   font-size: small;
   color: var(--bs-white);
+}
+.categorie h4, .categorie .h4 {
+  color: var(--bs-light);
+  font-weight: bold;
 }
 
 .reference {
